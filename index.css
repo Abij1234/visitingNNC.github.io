@@ -1,0 +1,53 @@
+body{
+background-image: url("img/backer.jpeg");
+background-attachment: fixed;
+background-size: cover;
+background-repeat: none;
+}
+
+.glassm{
+width: 750px;
+height: 500px;
+margin-left: 120px;
+margin-top: 600px;
+background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.log{
+width: 80px;
+height: 80px;
+padding-left: 320px;
+padding-top: 15px;
+}
+
+.nnc{
+fount-size: 18px;
+padding-left: 270px;
+color: white;
+}
+
+.git{
+fount-size: 20px;
+padding-left: 100px;
+font-size: 32px;
+color: white;
+}
+
+.cal{
+fount-size: 20px;
+padding-left: 100px;
+font-size: 32px;
+color: white;
+}
+
+.web{
+fount-size: 20px;
+padding-left: 100px;
+font-size: 32px;
+color: white;
+}
